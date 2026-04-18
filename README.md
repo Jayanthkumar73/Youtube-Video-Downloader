@@ -1,6 +1,6 @@
 <div align="center">
 
-# Antigravity Video Extractor
+# YouTube Video Extractor
 
 **High-performance YouTube downloader with a sleek, modern UI.**
 
